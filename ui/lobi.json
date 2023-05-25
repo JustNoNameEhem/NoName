@@ -1,1 +1,20 @@
-{}
+{
+    "AnehGamingOfficial-NWD832WHlHZpUXhLlBg": {
+      "download": "https://github.com/rahasia55/AG-BACKGROUND-LOBBY/raw/main/backup%20background.zip",
+      "hero": "AnehGamingOfficial",
+      "img": "https://github.com/rahasia55/AG-BACKGROUND-LOBBY/blob/main/backup%20background.png?raw=true",
+      "img2": "https://github.com/rahasia55/AG-BACKGROUND-LOBBY/blob/main/backup%20background.png?raw=true",
+      "key": "AnehGamingOfficial-NWD832WHlHZpUXhLlBg",
+      "skin_name": "Backup Background",
+      "sort": "0"
+    },
+    "AnehGamingOfficial-NWD8rLquUzKeIrz-WUu": {
+      "download": "https://github.com/rahasia55/AG-BACKGROUND-LOBBY/raw/main/bqckground%20cyber%20funk.zip",
+      "hero": "AnehGamingOfficial",
+      "img": "https://github.com/bahrankemal/acak/raw/main/background%20baru.jpg",
+      "img2": "https://github.com/bahrankemal/acak/raw/main/background%20baru.jpg",
+      "key": "AnehGamingOfficial-NWD8rLquUzKeIrz-WUu",
+      "skin_name": "Cyber Funk",
+      "sort": "1"
+    }
+  }
