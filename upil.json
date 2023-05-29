@@ -1,4 +1,4 @@
-{
+
     "Aamon-NQmiThujK5Wv8d_pJSR": {
       "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/amon%20basic%20to%20star.zip?raw=true",
       "hero": "Aamon",
@@ -1582,6 +1582,15 @@
       "key": "Franco-NUS1cCWec3wSMsFv8RI",
       "skin_name": "Blazing  > Legend ",
       "sort": "14"
+    },
+    "Franco-NWVBWiCYoGGNEbZKthE": {
+      "download": "https://github.com/gemble-dotcom/AnehCoolVeryCoolTercool/raw/main/Fracno%20Legend%20Special.zip",
+      "hero": "Franco",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest?cb=20220525164523",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest?cb=20221216103123",
+      "key": "Franco-NWVBWiCYoGGNEbZKthE",
+      "skin_name": "Special > Legend ",
+      "sort": "7"
     },
     "Fredrin-NT7oEmMM3DbQBsvR59C": {
       "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/fredrin%20basic%20to%20elite.zip?raw=true",
@@ -3785,6 +3794,24 @@
       "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest?cb=20220525165603",
       "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20220525165605",
       "key": "Selena-NSz_lpYXXSrRPLpF0Da",
+      "skin_name": "Elite > Zodiac",
+      "sort": "3"
+    },
+    "Selena-NWW2or8z_QNgsIk5PYG": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/selena%20basic%20to%20zodiac.zip",
+      "hero": "Selena",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero632-portrait.png/revision/latest?cb=20220525165603",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
+      "key": "Selena-NWW2or8z_QNgsIk5PYG",
+      "skin_name": "Normal > Zodiac",
+      "sort": "0"
+    },
+    "Selena-NWW32CYbZbCQkYQLA6h": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/selena%20elite%20to%20zodiac%20revamp.zip",
+      "hero": "Selena",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest?cb=20220525165608",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest?cb=20230514163409",
+      "key": "Selena-NWW32CYbZbCQkYQLA6h",
       "skin_name": "Elite > Zodiac",
       "sort": "3"
     },
