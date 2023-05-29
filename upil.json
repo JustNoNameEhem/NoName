@@ -2417,7 +2417,25 @@
       "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest?cb=20220525165245",
       "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
       "key": "Lancelot-NUWp8Hu7Zkcei0SflWx",
-      "skin_name": "Normal > Hero",
+      "skin_name": "Normal > Bren",
+      "sort": "0"
+    },
+    "Lancelot-NWaigSBO9e6iATIY8IW": {
+      "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Lancelot%20Hero%20Dragon.zip",
+      "hero": "Lancelot",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
+      "key": "Lancelot-NWaigSBO9e6iATIY8IW",
+      "skin_name": "Dragon > Super Hero",
+      "sort": "15"
+    },
+    "Lancelot-NWaiuryoSruw1WdSjtE": {
+      "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Lancelot%20Hero%20Normal.zip",
+      "hero": "Lancelot",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero472-portrait.png/revision/latest?cb=20220525165245",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
+      "key": "Lancelot-NWaiuryoSruw1WdSjtE",
+      "skin_name": "Normal > Super Hero",
       "sort": "0"
     },
     "Lancelot-NUWpEzr-c7AC2o7P_FD": {
