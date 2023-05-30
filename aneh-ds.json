@@ -1790,6 +1790,24 @@
       "skin_name": "",
       "sort": "0"
     },
+    "Gusion-Satoru": {
+      "download": "https://github.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/raw/main/Gusio%20Gojo%20Devil.zip",
+      "hero": "Gusion",
+      "img": "https://i.ibb.co/fdvBZgr/Screenshot-20220530-215520614-3.jpg",
+      "img2": "https://preview.redd.it/4gxn2898h1j61.jpg?auto=webp&s=0c25b23ac5ee5e10da9b1fff0d95043ee7c36818",
+      "key": "Gusion-Satoru",
+      "skin_name": "Gojo Satoru (Devil Lance)",
+      "sort": "1"
+    },
+     "Gusion-ThunderBlade": {
+      "download": "https://github.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/raw/main/Gusion%20THufnder%20Blade%20Filanz.zip",
+      "hero": "Gusion",
+      "img": "https://i.ibb.co/fdvBZgr/Screenshot-20220530-215520614-3.jpg",
+      "img2": "https://i.ibb.co/q03v0mM/p-ABvo1-MYSjg-HQ.jpg",
+      "key": "Gusion-ThunderBlade",
+      "skin_name": "Thunder Blade (Filanz)",
+      "sort": "1"
+    },
     "Gusion-NT1HkUOWnQnqgqiC0UJ": {
       "download": "https://github.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/raw/main/Gusion%2011.zip",
       "hero": "Gusion",
@@ -2862,6 +2880,15 @@
       "skin_name": "Zenitsu Agatsuma (AKUMA)",
       "sort": "1"
     },
+     "Ling-Giyu": {
+      "download": "https://github.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/raw/main/Ling%20x%20Giyu%20Devil.zip",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Ling.png/revision/latest?cb=20200613112856",
+      "img2": "https://w0.peakpx.com/wallpaper/429/569/HD-wallpaper-giyu-tomioka-agua-anime-demon-slayer-kimetsu-no-yaiba-magic-manga.jpg",
+      "key": "Ling-Giyu",
+      "skin_name": "Giyu Tomioka (Devil Lance)",
+      "sort": "1"
+    },
     "Ling-aaa": {
       "download": "https://github.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/raw/main/Ling%20X%20TANJIRO%20%5BDEMON%20SLAYERS%5D%20BY%20GALAXY%20GAMING.zip",
       "hero": "Ling",
@@ -3842,6 +3869,15 @@
       "key": "Sun-NQwJ9o0A1Yqf7IC90fc",
       "skin_name": "",
       "sort": "0"
+    },
+     "Sun-Naruto": {
+      "download": "https://github.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/raw/main/Sun%20Narutod%20Galacy.zip",
+      "hero": "Sun",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Sun.png/revision/latest?cb=20211231095930",
+      "img2": "https://i.pinimg.com/474x/5c/6c/ca/5c6cca01c1fa751c63a5c47db6aba371.jpg",
+      "key": "Sun-Naruto",
+      "skin_name": "Naruto Uzumaki (Galaxy)",
+      "sort": "1"
     },
     "Sun-NUypshMB8fWa85W_7Mx": {
       "download": "https://github.com/rahasia55/ag-basicskin/raw/main/sun%20collector.zip",
