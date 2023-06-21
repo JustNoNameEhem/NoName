@@ -3040,7 +3040,7 @@
       "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Butterfly_Seraphim.jpg/revision/latest?cb=20211202051308",
       "key": "Lunox-NVr_tjc1wBMngpSPBl2",
       "skin_name": "Butterfly Seraphim",
-      "sort": "0"
+      "sort": "8"
     },
     "Lunox-NVra4J1vn92Xw710NwU": {
       "download": "https://github.com/rahasia55/ag-basicskin/raw/main/lunox%20dawn%20revo.zip",
@@ -3049,7 +3049,7 @@
       "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Dawn_Revelation.jpg/revision/latest?cb=20211220012526",
       "key": "Lunox-NVra4J1vn92Xw710NwU",
       "skin_name": "Dawn Revelation",
-      "sort": "0"
+      "sort": "8"
     },
     "Lunox-NVraDKDHxNBOZi88ETM": {
       "download": "https://github.com/rahasia55/ag-basicskin/raw/main/lunox%20eyes.zip",
@@ -3058,7 +3058,16 @@
       "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Eyes_of_Eternity.jpg/revision/latest?cb=20210604114002",
       "key": "Lunox-NVraDKDHxNBOZi88ETM",
       "skin_name": "Eyes of Eternity",
-      "sort": "0"
+      "sort": "8"
+    },
+     "Lunox-legend": {
+      "download": "https://github.com/AnehGamingOfficial/MueHEHEHEHEHEHHEHEHE/raw/main/Lunox%20LEgemd.zip",
+      "hero": "Lunox",
+      "img": "https://dailyspin.id/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/350087012_252748360774806_1116386722490097786_n-700x700.jpg.webp",
+      "img2": "https://dailyspin.id/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/05/350087012_252748360774806_1116386722490097786_n-700x700.jpg.webp",
+      "key": "Lunox-legend",
+      "skin_name": "Divine Goddness",
+      "sort": "11"
     },
     "Luo Yi-NQwHodVSz35s5IyNNG6": {
       "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Luo%20Yi.zip",
