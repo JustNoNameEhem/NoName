@@ -2780,6 +2780,15 @@
       "skin_name": "Normal > Epic",
       "sort": "0"
     },
+    "Lunox-legend-T5XZtY": {
+      "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Lunox%20Legend%20Normal.zip",
+      "hero": "Lunox",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Bloody_Mary.jpg/revision/latest?cb=20211202051158",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Divine_Goddes.jpeg/revision/latest/scale-to-width-down/114?cb=20230707121549",
+      "key": "Lunox-legend-T5XZtY",
+      "skin_name": "Normal > Legend",
+      "sort": "0"
+    },
     "Lunox-NUMJHoNF8-MTOMaHLrL": {
       "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/lunox%20basic%20to%20epic2.zip?raw=true",
       "hero": "Lunox",
@@ -2816,6 +2825,15 @@
       "skin_name": "Elite > Epic",
       "sort": "3"
     },
+     "Lunox-le-ZK": {
+      "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Lunox%20Legend%20Eliete.zip",
+      "hero": "Lunox",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Cosmic_Harmony.jpg/revision/latest?cb=20211202051216",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Divine_Goddes.jpeg/revision/latest/scale-to-width-down/114?cb=20230707121549",
+      "key": "Lunox-le-ZK",
+      "skin_name": "Elite > Legend",
+      "sort": "3"
+    },
     "Lunox-NUMJxfMzzKKrCN8KQWR": {
       "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/lunox%20elite%20to%20epic2.zip?raw=true",
       "hero": "Lunox",
@@ -2842,6 +2860,33 @@
       "key": "Lunox-NUMKAqnc-UHXK9HbDwM",
       "skin_name": "Elite > Zodiac",
       "sort": "3"
+    },
+    "Lunox-Legend-UHXK9HbDwM": {
+      "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Lunox%20Legend%20Starlight%20Coli.zip",
+      "hero": "Lunox",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Ash_Blossom.jpg/revision/latest/scale-to-width-down/168?cb=20211202051146",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Divine_Goddes.jpeg/revision/latest/scale-to-width-down/114?cb=20230707121549",
+      "key": "Lunox-Legend-UHXK9HbDwM",
+      "skin_name": "Starlight > Legend",
+      "sort": "11"
+    },
+    "Lunox-Legend-11": {
+      "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Lunox%20Legend%20Dawn%20Revelaudh.zip",
+      "hero": "Lunox",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Dawn_Revelation.jpg/revision/latest/scale-to-width-down/168?cb=20211220012526",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Divine_Goddes.jpeg/revision/latest/scale-to-width-down/114?cb=20230707121549",
+      "key": "Lunox-Legend-11",
+      "skin_name": "Epic > Legend",
+      "sort": "14"
+    },
+    "Lunox-Legend-op": {
+      "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Lunox%20Legend%20Eyes%20of%20Evony.zip",
+      "hero": "Lunox",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Eyes_of_Eternity.jpg/revision/latest/scale-to-width-down/168?cb=20210604114002",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Divine_Goddes.jpeg/revision/latest/scale-to-width-down/114?cb=20230707121549",
+      "key": "Lunox-Legend-op",
+      "skin_name": "Epic 2 > Legend",
+      "sort": "15"
     },
     "Luo Yi-NUMKs8qV0LTr_rUN2we": {
       "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/luo%20yi%20basic%20to%20collector.zip?raw=true",
