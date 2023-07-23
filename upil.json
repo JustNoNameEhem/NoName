@@ -1547,6 +1547,15 @@
       "skin_name": "Topup > Epic",
       "sort": "1"
     },
+    "Franco-starlegend": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/releases/download/Nothing/Franco.Legend.Starlight.zip",
+      "hero": "Franco",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525164524",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero109-portrait.png/revision/latest/scale-to-width-down/154?cb=20221216103123",
+      "key": "Franco-starlegend",
+      "skin_name": "Starlight > Legend",
+      "sort": "11"
+    },
     "Franco-NRvTDXpIVFc-O7ZjE4F": {
       "download": "https://github.com/rahasia55/AG-FRANCO/blob/master/franco%20bone%20to%20hellowen.zip?raw=true",
       "hero": "Franco",
