@@ -1826,6 +1826,15 @@
       "skin_name": "Normal > Legend",
       "sort": "0"
     },
+    "Gusion-el-kof": {
+      "download": "https://github.com/gemble-dotcom/AnehCoolVeryCoolTercool/raw/main/Gusion%20KoF%20Elite.zip",
+      "hero": "Gusion",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525165444",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero567-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525165449",
+      "key": "Gusion-el-kof",
+      "skin_name": "Elite > K.O.F",
+      "sort": "3"
+    },
     "Gusion-NTJl0MLPxwBkhkim9u_": {
       "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Gusion%20Legend%20Soul.zip",
       "hero": "Gusion",
@@ -2420,15 +2429,6 @@
       "skin_name": "Normal > StarWars",
       "sort": "0"
     },
-    "Lancelot-NTNLsOc3H_Nbkqd8nK4": {
-      "download": "https://github.com/gemble-dotcom/AnehCoolVeryCoolTercool/raw/main/Lancelot%20Zodiac%20Floral.zip",
-      "hero": "Lancelot",
-      "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
-      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/154?cb=20230212041010",
-      "key": "Lancelot-NTNLsOc3H_Nbkqd8nK4",
-      "skin_name": "Floral Knight  > Zodiac (Old)",
-      "sort": "14"
-    },
     "Lancelot-Mzodiac": {
       "download": "https://github.com/AnehGamingOfficial/Woi/raw/main/Lancelot%20Zodic%20Folrwawsl.zip",
       "hero": "Lancelot",
@@ -2535,6 +2535,15 @@
       "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
       "key": "Lancelot-NUZI4TJ-8hISiHpBqwQ",
       "skin_name": "Normal > Charistmas",
+      "sort": "0"
+    },
+     "Lancelot-cr-dt": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/lancelot%20basic%20to%20christmas.zip?raw=true",
+      "hero": "Lancelot",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest/scale-to-width-down/154?cb=20220804115345",
+      "key": "Lancelot-cr-dt",
+      "skin_name": "Charistmas > Dragon Tamer",
       "sort": "0"
     },
     "Lapu-Lapu-NUZIf6KhaFIrnF0VncU": {
@@ -2770,6 +2779,15 @@
       "key": "Ling-NUaGHtyH3XYva9Dl_2w",
       "skin_name": "Normal > Special",
       "sort": "0"
+    },
+    "Ling-stcc": {
+      "download": "https://github.com/gemble-dotcom/AnehCoolVeryCoolTercool/raw/main/Ling%20Collector%20Stalrigut.zip",
+      "hero": "Ling",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525170016",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero846-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525170020",
+      "key": "Ling-stcc",
+      "skin_name": "Starlgiht > Collector",
+      "sort": "11"
     },
     "Ling-NUaGPWQot-ZsjQf7AxY": {
       "download": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/ling%20basic%20to%20starlight.zip?raw=true",
