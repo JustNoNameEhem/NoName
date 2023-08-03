@@ -663,14 +663,6 @@
       "key": "MinotaurRemove",
       "skin_name": "Remove All Minotaur Skin ?"
     },
-    "MinsittarRemove": {
-      "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20minsittar.zip?raw=true",
-      "hero": "Minsittar",
-      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
-      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
-      "key": "MinsittarRemove",
-      "skin_name": "Remove All Minsittar Skin ?"
-    },
     "MiyaRemove": {
       "download": "https://github.com/rahasia55/AG-BACKUP2/blob/master/backup%20minsittar.zip?raw=true",
       "hero": "Miya",
