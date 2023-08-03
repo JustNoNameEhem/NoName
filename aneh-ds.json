@@ -917,12 +917,21 @@
       "skin_name": "Strawberry Parfait",
       "sort": "9"
     },
-    "Chou-NQwCyCR08Hhkj8Kfpwx": {
+    "Chou-ech": {
+      "download": "https://github.com/gemble-dotcom/AnehCoolVeryCoolTercool/raw/main/Chou%20Echo.zip",
+      "hero": "Chou",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Chou.png/revision/latest?cb=20190325172431",
+      "img2": "https://github.com/gemble-dotcom/AnehCoolVeryCoolTercool/blob/main/Choyecho.jpg?raw=true",
+      "key": "Chou-ech",
+      "skin_name": "ECHO",
+      "sort": "8"
+    },
+    "Chou-r": {
       "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Chou.zip",
       "hero": "Chou",
       "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Chou.png/revision/latest?cb=20190325172431",
       "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Chou.png/revision/latest?cb=20190325172431",
-      "key": "Chou-NQwCyCR08Hhkj8Kfpwx",
+      "key": "Chou-r",
       "skin_name": "",
       "sort": "0"
     },
