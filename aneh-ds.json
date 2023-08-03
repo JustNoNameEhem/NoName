@@ -4516,5 +4516,59 @@
       "key": "Zilong-NVF_l8LHSBECYN0mZz_",
       "skin_name": "Summer Waves",
       "sort": "3"
+    },
+    "Badang-Na4kCJAUOSNfcCpeQl8": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/badang%20zodiac.zip",
+      "hero": "Badang",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero774-portrait.png/revision/latest?cb=20230623125824",
+      "key": "Badang-Na4kCJAUOSNfcCpeQl8",
+      "skin_name": "Leo",
+      "sort": "0"
+    },
+    "Balmond-Na4k-L6BHA3GQCxkDpe": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/balmond%20epic%20baru.zip",
+      "hero": "Balmond",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
+      "key": "Balmond-Na4k-L6BHA3GQCxkDpe",
+      "skin_name": "Infernal Warlord",
+      "sort": "0"
+    },
+    "Beatrix-Na4aYgCXBjRUwb2-cgc": {
+      "download": "https://github.com/rahasia55/beatrix/raw/master/beatrix%20prime.zip",
+      "hero": "Beatrix",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest?cb=20221216103146",
+      "key": "Beatrix-Na4aYgCXBjRUwb2-cgc",
+      "skin_name": "Stellar Briliance",
+      "sort": "11"
+    },
+    "Faramis-Na4kdqHXdUfSmtUTMz-": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/faramia%20default%20to%20summer.zip",
+      "hero": "Faramis",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero764-portrait.png/revision/latest?cb=20230623125804",
+      "key": "Faramis-Na4kdqHXdUfSmtUTMz-",
+      "skin_name": "Summer",
+      "sort": "5"
+    },
+    "Lunox-Na4ky8CoFvEOjc_jLkb": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/lunox%20legend.zip",
+      "hero": "Lunox",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Divine_Goddes.jpeg/revision/latest?cb=20230707121549",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Divine_Goddes.jpeg/revision/latest?cb=20230707121549",
+      "key": "Lunox-Na4ky8CoFvEOjc_jLkb",
+      "skin_name": "Divine Goddes",
+      "sort": "11"
+    },
+    "Minsittar-Na4lG9hyNVmxn2SjgiT": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/ministar%20star.zip",
+      "hero": "Minsittar",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20230623125755",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero745-portrait.png/revision/latest?cb=20230623125755",
+      "key": "Minsittar-Na4lG9hyNVmxn2SjgiT",
+      "skin_name": "Crimson Lion",
+      "sort": "6"
     }
   }
