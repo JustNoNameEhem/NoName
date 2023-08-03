@@ -95,6 +95,14 @@
       "key": "BadangRemove",
       "skin_name": "Remove All Badang Skin ?"
     },
+     "MinsittarRemove": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/backup%20ministar.zip",
+      "hero": "Minsittar",
+      "img": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "img2": "https://raw.githubusercontent.com/gemble-dotcom/GotYourBack/main/ei_1678894730093-removebg-preview.png",
+      "key": "MinsittarRemove",
+      "skin_name": "Remove All MinsittarSkin ?"
+    },
     "BalerickRemove": {
       "download": "https://github.com/rahasia55/AG-BACKUP1/blob/master/backup%20belerick.zip?raw=true",
       "hero": "Balerick",
