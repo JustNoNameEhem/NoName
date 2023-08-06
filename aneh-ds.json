@@ -4552,5 +4552,50 @@
       "key": "Minsittar-Na4lG9hyNVmxn2SjgiT",
       "skin_name": "Crimson Lion",
       "sort": "6"
+    },
+    "Edith-Nb8g6E1bmP6MoMA8Cbz": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/edith%20beyond.zip",
+      "hero": "Edith",
+      "img": "https://github.com/rahasia55/ag-basicskin/blob/main/edith%20neww.png?raw=true",
+      "img2": "https://github.com/rahasia55/ag-basicskin/blob/main/edith%20neww.png?raw=true",
+      "key": "Edith-Nb8g6E1bmP6MoMA8Cbz",
+      "skin_name": "Beyond",
+      "sort": "0"
+    },
+    "Fredrin-Nb8gOOqnJFGsG9pmsY4": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/fredrin%20neo.zip",
+      "hero": "Fredrin",
+      "img": "https://github.com/rahasia55/ag-basicskin/blob/main/fredrinn%20new.png?raw=true",
+      "img2": "https://github.com/rahasia55/ag-basicskin/blob/main/fredrinn%20new.png?raw=true",
+      "key": "Fredrin-Nb8gOOqnJFGsG9pmsY4",
+      "skin_name": "Neobeast",
+      "sort": "0"
+    },
+    "Kagura-Nb8gamH1F1fozcTE_kB": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/kagura%20beyond.zip",
+      "hero": "Kagura",
+      "img": "https://github.com/rahasia55/ag-basicskin/blob/main/kagura%20neww.png?raw=true",
+      "img2": "https://github.com/rahasia55/ag-basicskin/blob/main/kagura%20neww.png?raw=true",
+      "key": "Kagura-Nb8gamH1F1fozcTE_kB",
+      "skin_name": "Beyond",
+      "sort": "0"
+    },
+    "Lilya-Nb8h6FJxTi7n2GItZ9A": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/lylia%20neo.zip",
+      "hero": "Lilya",
+      "img": "https://github.com/rahasia55/ag-basicskin/blob/main/lylia%20neww.png?raw=true",
+      "img2": "https://github.com/rahasia55/ag-basicskin/blob/main/lylia%20neww.png?raw=true",
+      "key": "Lilya-Nb8h6FJxTi7n2GItZ9A",
+      "skin_name": "NeoBeast",
+      "sort": "11"
+    },
+    "Xavier-Nb8hj2NqMwnllkpThyB": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/xavier%20beyond.zip",
+      "hero": "Xavier",
+      "img": "https://raw.githubusercontent.com/rahasia55/ag-basicskin/main/xavier%20neww.png",
+      "img2": "https://raw.githubusercontent.com/rahasia55/ag-basicskin/main/xavier%20neww.png",
+      "key": "Xavier-Nb8hj2NqMwnllkpThyB",
+      "skin_name": "Beyond",
+      "sort": "11"
     }
   }
