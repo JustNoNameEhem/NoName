@@ -296,6 +296,15 @@
       "skin_name": "B",
       "sort": "0"
     },
+        "rc refxcxzc44z": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20515%20Party.zip",
+      "hero": "Party Star Replacement",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Party_Star_Recall_Effect.png/revision/latest?cb=20211204084334",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc refxcxzc44z",
+      "skin_name": "B",
+      "sort": "1"
+    },
      "rc 34eerwed": {
       "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
       "hero": "Blazing West Replacement",
@@ -304,5 +313,158 @@
       "key": "rc 34eerwed",
       "skin_name": "B",
       "sort": "0"
-    }
+    },
+      "rc 34eerwed0": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Blazing.zip",
+      "hero": "Blazing West Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc 34eerwed0",
+      "skin_name": "B",
+      "sort": "1"
+    },
+"rc sasasaae": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
+      "hero": "Halloween Replacement",
+      "img": "",
+      "img2": "",
+      "key": "rc sasasaae",
+      "skin_name": "B",
+      "sort": "0"
+    },
+    "rc sasasaae1": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Hallowne.zip",
+      "hero": "Halloween Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc sasasaae1",
+      "skin_name": "B",
+      "sort": "1"
+    },
+"rc 1": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
+      "hero": "Light & Dark Replacement",
+      "img": "",
+      "img2": "",
+      "key": "rc 1",
+      "skin_name": "B",
+      "sort": "0"
+    },
+    "rc 10": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Lightdark.zip",
+      "hero": "Light & Dark Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc 10",
+      "skin_name": "B",
+      "sort": "1"
+    },
+    "rc 2": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
+      "hero": "The Oriental Fighter Replacement",
+      "img": "",
+      "img2": "",
+      "key": "rc 2",
+      "skin_name": "B",
+      "sort": "0"
+    },
+        "rc 20": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Oreineatal%20Fighwyer.zip",
+      "hero": "The Oriental Fighter Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc 20",
+      "skin_name": "B",
+      "sort": "1"
+    },
+"rc 3": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
+      "hero": "Party King Replacement",
+      "img": "",
+      "img2": "",
+      "key": "rc 3",
+      "skin_name": "B",
+      "sort": "0"
+    },
+    "rc 30": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Party%20King.zip",
+      "hero": "Party King Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc 30",
+      "skin_name": "B",
+      "sort": "1"
+    },
+"rc 4": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
+      "hero": "The Return Of The Sword Replacement",
+      "img": "",
+      "img2": "",
+      "key": "rc 4",
+      "skin_name": "B",
+      "sort": "0"
+    },
+    "rc 40": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Return%20Of%20The%20swords.zip",
+      "hero": "The Return Of The Sword Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc 40",
+      "skin_name": "B",
+      "sort": "1"
+    },
+"rc 5": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
+      "hero": "Snowman Replacement",
+      "img": "",
+      "img2": "",
+      "key": "rc 5",
+      "skin_name": "B",
+      "sort": "0"
+    },
+    "rc 50": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Snowman.zip",
+      "hero": "Snowman Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc 50",
+      "skin_name": "B",
+      "sort": "1"
+    },
+"rc 6": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
+      "hero": "MLBB x Star Wars Replacement",
+      "img": "",
+      "img2": "",
+      "key": "rc 6",
+      "skin_name": "B",
+      "sort": "0"
+    },
+    "rc 60": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Starwaesns.zip",
+      "hero": "MLBB x Star Wars Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc 60",
+      "skin_name": "B",
+      "sort": "1"
+    },
+    "rc 7": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/BakcupV1.zip",
+      "hero": "MLBB X Transformers Replacement",
+      "img": "",
+      "img2": "",
+      "key": "rc 7",
+      "skin_name": "B",
+      "sort": "0"
+    },
+    "rc 71": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Rc/Sea%20Of%20Anvil%20R%20Transformer%207.zip",
+      "hero": "MLBB X Transformers Replacement",
+      "img": "",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Seal_of_Anvil_Crawlers_Recall_Effect.png/revision/latest?cb=20211204084955",
+      "key": "rc 71",
+      "skin_name": "B",
+      "sort": "1"
+    } 
   }
