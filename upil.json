@@ -4534,5 +4534,68 @@
       "key": "Minsittar-Na4nL8Lm2iz4FFt5e_g",
       "skin_name": "Normal > Starlight",
       "sort": "0"
+    },
+    "Chou-Nb8wdUCuPDgJZvK070n": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/chou%20basic%20to%20echo.zip",
+      "hero": "Chou",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest?cb=20220719071254",
+      "img2": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/chou%20echo%20m4.png?raw=true",
+      "key": "Chou-Nb8wdUCuPDgJZvK070n",
+      "skin_name": "Normal > Echo",
+      "sort": "0"
+    },
+    "Edith-Nb8xLf16C-aoAKb8Vcw": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/edith%20basic%20to%20beyond.zip",
+      "hero": "Edith",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1115-portrait.png/revision/latest?cb=20230805043923",
+      "img2": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/edith%20neww.png?raw=true",
+      "key": "Edith-Nb8xLf16C-aoAKb8Vcw",
+      "skin_name": "Normal > Beyond",
+      "sort": "0"
+    },
+    "Fredrin-Nb8xnal8jylg9CE5na9": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/fredrin%20basic%20to%20neo.zip",
+      "hero": "Fredrin",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero1172-portrait.png/revision/latest?cb=20220807093441",
+      "img2": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/fredrinn%20new.png?raw=true",
+      "key": "Fredrin-Nb8xnal8jylg9CE5na9",
+      "skin_name": "Normal > NeoBeast",
+      "sort": "0"
+    },
+    "Kagura-Nb8z1b7u-0Xw6BhMBaa": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/kagura%20basic%20to%20beyond.zip",
+      "hero": "Kagura",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero252-portrait.png/revision/latest?cb=20220525164840",
+      "img2": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/kagura%20neww.png?raw=true",
+      "key": "Kagura-Nb8z1b7u-0Xw6BhMBaa",
+      "skin_name": "Normal > Beyond",
+      "sort": "0"
+    },
+    "Lilya-Nb8zR7P4XjbBrNHAaC_": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/lylia%20basic%20to%20neo.zip",
+      "hero": "Lilya",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/School_Idol.jpg/revision/latest?cb=20211207064457",
+      "img2": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/lylia%20neww.png?raw=true",
+      "key": "Lilya-Nb8zR7P4XjbBrNHAaC_",
+      "skin_name": "Normal > NeoBeast",
+      "sort": "0"
+    },
+    "Ruby-Nb8zvqgJNlfso47-mR5": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/ruby%20basic%20to%20collector.zip",
+      "hero": "Ruby",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero292-portrait.png/revision/latest?cb=20220525164933",
+      "img2": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/ruby%20neww.png?raw=true",
+      "key": "Ruby-Nb8zvqgJNlfso47-mR5",
+      "skin_name": "Normal > Collector",
+      "sort": "0"
+    },
+    "Xavier-Nb9-FfUjZHaxz6atEvo": {
+      "download": "https://github.com/rahasia55/AG-UP-SKIN/raw/main/xavier%20basic%20to%20beyond.zip",
+      "hero": "Xavier",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest?cb=20220525170636",
+      "img2": "https://github.com/rahasia55/AG-UP-SKIN/blob/main/xavier%20neww.png?raw=true",
+      "key": "Xavier-Nb9-FfUjZHaxz6atEvo",
+      "skin_name": "Normal > Beyond",
+      "sort": "0"
     }
   }
