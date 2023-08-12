@@ -8,6 +8,42 @@
       "skin_name": "r",
       "sort": "0"
     },
+     "Alpha-NbNqZkl_OwpdYEORF7F": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/alpha%20starlight.zip",
+      "hero": "Alpha",
+      "img": "https://github.com/rahasia55/ag-basicskin/blob/main/alpha%20star.png?raw=true",
+      "img2": "https://github.com/rahasia55/ag-basicskin/blob/main/alpha%20star.png?raw=true",
+      "key": "Alpha-NbNqZkl_OwpdYEORF7F",
+      "skin_name": "Starlight",
+      "sort": "6"
+    },
+    "Beatrix-NbNqnl5R5_WBGJAJoWP": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/beatrix%20spesial.zip",
+      "hero": "Beatrix",
+      "img": "https://github.com/rahasia55/ag-basicskin/blob/main/beatrix%20spesial.png?raw=true",
+      "img2": "https://github.com/rahasia55/ag-basicskin/blob/main/beatrix%20spesial.png?raw=true",
+      "key": "Beatrix-NbNqnl5R5_WBGJAJoWP",
+      "skin_name": "Spesial",
+      "sort": "5"
+    },
+    "Kadita-NbNrLf7AaGxswgZV1eN": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/kadita%20mpl.zip",
+      "hero": "Kadita",
+      "img": "https://github.com/rahasia55/ag-basicskin/blob/main/kadita%20mpl.png?raw=true",
+      "img2": "https://github.com/rahasia55/ag-basicskin/blob/main/kadita%20mpl.png?raw=true",
+      "key": "Kadita-NbNrLf7AaGxswgZV1eN",
+      "skin_name": "MPL",
+      "sort": "3"
+    },
+    "Karrie-NbNr2u6zC4HFauy1z_6": {
+      "download": "https://github.com/rahasia55/ag-basicskin/raw/main/karrie%20epic%20ice.zip",
+      "hero": "Karrie",
+      "img": "https://github.com/rahasia55/ag-basicskin/blob/main/karrie%20epic%20ice.png?raw=true",
+      "img2": "https://github.com/rahasia55/ag-basicskin/blob/main/karrie%20epic%20ice.png?raw=true",
+      "key": "Karrie-NbNr2u6zC4HFauy1z_6",
+      "skin_name": "Epic Ice",
+      "sort": "8"
+    },
     "Ruby-Nb8mGgGiEoqzQ3v3DIh": {
       "download": "https://github.com/rahasia55/ag-basicskin/raw/main/ruby%20collector.zip",
       "hero": "Ruby",
