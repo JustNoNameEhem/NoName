@@ -1052,7 +1052,16 @@
       "skin_name": "Dragon Boy",
       "sort": "8"
     },
-    "Claude-NQwD6YWOextsnmuOPz0": {
+    "Claude-sume": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Claude%20Summer.zip",
+      "hero": "Claude",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525165638",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero655-portrait.png/revision/latest/scale-to-width-down/154?cb=20220525165638",
+      "key": "Claude-sume",
+      "skin_name": "Lifeguard",
+      "sort": "5"
+    },
+        "Claude-NQwD6YWOextsnmuOPz0": {
       "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Claude.zip",
       "hero": "Claude",
       "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Claude.png/revision/latest?cb=20190615171431",
