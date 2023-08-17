@@ -971,6 +971,15 @@
       "skin_name": "ECHO",
       "sort": "8"
     },
+        "Chou-Angela": {
+      "download": "https://github.com/gemble-dotcom/ReleaseOrRelease/raw/main/Best%20Angela%20Chou.zip",
+      "hero": "Chou",
+      "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Chou.png/revision/latest?cb=20190325172431",
+      "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero556-portrait.png/revision/latest?cb=20220525165435",
+      "key": "Chou-Angela",
+      "skin_name": "Angela Tak Desah",
+      "sort": "1"
+    },
     "Chou-r": {
       "download": "https://github.com/gemble-dotcom/GotYourBack/raw/main/Chou.zip",
       "hero": "Chou",
